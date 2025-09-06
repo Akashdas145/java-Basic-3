@@ -1,5 +1,5 @@
 # java-Basic-3
-it's the folder of some java besic code 
+This is the folder of some java besic code 
 Code Topics:
 "Java Strings"
 "Java Math"
